@@ -1,4 +1,4 @@
-package com.jim_wilson.pluralsight.getting_started_with_java_2020.sec3.operator_precedence;
+package com.pluralsight.jim_wilson.getting_started_with_java_2020.sec3.operator_precedence;
 
 public class Main {
 	public static void main(String[] args) {

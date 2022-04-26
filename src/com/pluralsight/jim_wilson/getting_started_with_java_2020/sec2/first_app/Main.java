@@ -1,4 +1,4 @@
-package com.jim_wilson.pluralsight.getting_started_with_java_2020.sec2.first_app;
+package com.pluralsight.jim_wilson.getting_started_with_java_2020.sec2.first_app;
 
 public class Main {
 	public static void main(String[] args) {

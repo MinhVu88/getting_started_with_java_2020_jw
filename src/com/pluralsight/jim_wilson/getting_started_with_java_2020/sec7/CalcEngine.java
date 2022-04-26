@@ -1,4 +1,4 @@
-package com.jim_wilson.pluralsight.getting_started_with_java_2020.sec7;
+package com.pluralsight.jim_wilson.getting_started_with_java_2020.sec7;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.jim_wilson.pluralsight.getting_started_with_java_2020.sec5;
+package com.pluralsight.jim_wilson.getting_started_with_java_2020.sec5;
 
 public class CalcEngine {
 	public static void main(String[] args) {
